@@ -1,0 +1,11 @@
+# Credentials & Environment variables
+.env
+*.env
+credentials.json
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# n8n Local Data
+.n8n/
